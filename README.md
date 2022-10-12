@@ -5,13 +5,9 @@
 
 - 🌱 I’m currently learning **how to create GitHub apps and other cool stuffs!**
 
-- 👯 I’m looking to collaborate on **python projects**
+- 👯 I’m looking to collaborate on **any exciting projects**
 
 - 🤝 I’m looking for help with **creating GitHub apps**
-
-- 💬 Ask me about **python**
-
-- ⚡ Fun fact **I am new to GitHub World. Don't let my GitHub stats fool you**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
